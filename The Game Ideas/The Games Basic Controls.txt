@@ -1,0 +1,44 @@
+The Games Basic Controls
+
+A:Jump
+	A in air:Extend wings
+	-A on ground:Roll straight. + Left stick choose the direction
+	A while flying:Put wings away
+
+B:Melee
+	-B:Block Melee/ Close Range Weapon
+
+X:crouch and prone
+	when moving:To start sliding
+	-X when sprinting:To dive into prone
+
+Y:sdfhsdfheme56m,e5,dfghszfbhazzzzzzzzzfwdrgzzzzzzzzfgaesrgqrgzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzas
+
+Right Stick:Look
+	Click:Look down sight/Zoom
+
+Left Stick:Movement
+	Click:Sprint
+
+Right Trigger:Shoot Right weapon/ Swing Right Weapon
+
+Right Bumper:Reload Right weapon
+
+Left Trigger:Throw grande/Shoot Left weapon/ swing Left Weapon
+
+Left Bumper:Switch grande/reload Left weapon
+
+D-Pad Up:Action/Pick up object
+	When Crouching:Pick pocket some one if close and looking at them
+
+D-Pad Down:Holster/Sheath weapon... so This is disabled in Competitive multiplayer, Not open World.
+
+D-Pad Right:Switch Right Weapon
+	-D-Pad Right:Quick Switch Weapons / Gadets
+
+D-Pad Left:Switch Left Weapon
+	-D-Pad Left:Quick Switch Weapons / Gadets
+
+Back:Shows Upgrade and stats and/or score to the game
+
+Start:Shows stats, upgrade, inventory, Quest/Objective...
