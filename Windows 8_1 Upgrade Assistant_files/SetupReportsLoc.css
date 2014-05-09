@@ -1,0 +1,189 @@
+* {
+	MARGIN: 0px
+}
+BODY {
+	COLOR: #000; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+TH {
+	FONT-SIZE: 9pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+BUTTON {
+	FONT-SIZE: 9pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+A.MainWindow {
+	FONT-SIZE: 9pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.DetailSubHeader {
+	FONT-SIZE: 9pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.Program {
+	FONT-SIZE: 9pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+TD.Actions {
+	FONT-SIZE: 9pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+NOBR.MainWindow {
+	FONT-SIZE: 11pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+TD.Overview {
+	FONT-SIZE: 11pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+H1 {
+	FONT-SIZE: 12pt; FONT-WEIGHT: normal
+}
+DIV.Overview {
+	FONT-SIZE: 11pt
+}
+DIV.Actions {
+	FONT-SIZE: 11pt
+}
+TD.Overview {
+	FONT-SIZE: 11pt
+}
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+BUTTON.Actions {
+	FONT-SIZE: 10pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.AppInfo {
+	FONT-SIZE: 10pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.AppInfoDetail {
+	FONT-SIZE: 10pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.OrphanFile {
+	FONT-SIZE: 10pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.Actions {
+	FONT-SIZE: 12pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.DetailHeader {
+	FONT-SIZE: 12pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.DetailHeaderWithSubHeader {
+	FONT-SIZE: 12pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+DIV.DetailHeaderGood {
+	FONT-SIZE: 12pt; FONT-FAMILY: Segoe UI, Tahoma, Arial, Sans-Serif; LETTER-SPACING: normal; LINE-HEIGHT: normal
+}
+BODY.MainWindow {
+	COLOR: #fff; BACKGROUND-COLOR: #180052
+}
+DIV.Actions {
+	COLOR: #fff; BACKGROUND-COLOR: #180052
+}
+TR.Actions {
+	COLOR: #fff; BACKGROUND-COLOR: #180052
+}
+DIV.Program {
+	COLOR: #fff; BACKGROUND-COLOR: #180052
+}
+DIV.Overview {
+	COLOR: #fff; BACKGROUND-COLOR: #180052
+}
+DIV.OrphanFile {
+	COLOR: #fff; BACKGROUND-COLOR: #180052
+}
+DIV.ProgramSecondary {
+	COLOR: #a399ba; BACKGROUND-COLOR: #180052
+}
+TD.ActionLink {
+	COLOR: #a399ba; BACKGROUND-COLOR: #180052
+}
+A {
+	TEXT-DECORATION: none; COLOR: #4f1acb
+}
+A:hover {
+	COLOR: #7248d5
+}
+A.MainWindow:hover {
+	COLOR: #7a4adc
+}
+A:active {
+	COLOR: #9576e0
+}
+A.MainWindow:active {
+	COLOR: #6137ba
+}
+A.MainWindow {
+	TEXT-DECORATION: none; COLOR: #925cff
+}
+A.Program {
+	TEXT-DECORATION: none; COLOR: #925cff
+}
+TD.Overview {
+	PADDING-LEFT: 7px; PADDING-RIGHT: 7px
+}
+DIV.AppInfoDetail {
+	COLOR: #6e6e6e
+}
+DIV.DetailSubHeader {
+	COLOR: #6e6e6e
+}
+DIV {
+	COLOR: #2a2a2a
+}
+.LargeIcon {
+	PADDING-RIGHT: 12px
+}
+TD.ImageOverview {
+	WIDTH: 16px
+}
+TD.LargeIcon {
+	WIDTH: 38px
+}
+TABLE {
+	WIDTH: 100%
+}
+TABLE.SystemTable {
+	WIDTH: auto
+}
+BUTTON {
+	WIDTH: 109px
+}
+TABLE.Actions {
+	COLOR: #2a2a2a; PADDING-RIGHT: 2px
+}
+TR.Actions {
+	PADDING-BOTTOM: 13px
+}
+TD.ActionLink {
+	PADDING-LEFT: 15px; PADDING-RIGHT: 15px
+}
+TD.Actions {
+	PADDING-RIGHT: 24px
+}
+DIV.AppInfo {
+	PADDING-RIGHT: 4px
+}
+DIV.AppInfoLink {
+	PADDING-RIGHT: 4px
+}
+DIV.AppInfo {
+	FONT-WEIGHT: bold
+}
+DIV.LargeIcon {
+	FLOAT: left; MARGIN-LEFT: -60px
+}
+DIV.SystemTable {
+	CLEAR: left
+}
+TH.SystemTable {
+	FLOAT: left; TEXT-ALIGN: left; PADDING-RIGHT: 20px
+}
+DIV.DetailHeader {
+	CLEAR: left
+}
+DIV.Works {
+	PADDING-RIGHT: 4px
+}
+LI {
+	PADDING-LEFT: 60px; CLEAR: left
+}
